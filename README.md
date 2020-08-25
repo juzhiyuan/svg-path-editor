@@ -38,7 +38,7 @@ Edit or create SVG paths in browser: https://yqnn.github.io/svg-path-editor/
 Run `npm install` to retrieve all the depencies of the project.
 
 ##### Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. (Run `npm install -g @angular/cli`, if necessary.) Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ##### Build
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
